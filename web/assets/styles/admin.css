@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+form{
+    width:50%;
+}
+.container{
+    display:flex;
+    flex-flow: column;
+}
+.header{
+    order:0;
+}
+.forms{
+    display:flex;
+    flex-direction: row; 
+}
+.add-user{
+    width: 40%
+        /*    margin: 10px 20px 0px 30px;*/
+}
+.edit-user{
+    width: 40%
+        /*    margin: 10px 20px 0px 30px;*/
+}
+
+
+

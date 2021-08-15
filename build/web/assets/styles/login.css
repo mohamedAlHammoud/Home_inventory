@@ -1,0 +1,45 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    min-height: 100vh;
+}
+form {
+
+
+
+    padding: 20px;
+    width: 27%;
+    margin: 2%;
+
+    box-shadow: 5px 6px #999ea5;
+}
+/*desktop*/
+@media only screen and (min-width: 768px) {
+
+    .page-title{
+        margin: 80px 0px 40px 63px;
+    }
+
+
+    .container{
+        position:fixed;
+        min-width: 1000px;
+        left:36%;
+
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .page-title{
+        margin: 80px 0px 40px 27px;
+    }
+    .container{
+
+        position: fixed;
+        left: 36%;
+        min-width:750px;
+    }
+}

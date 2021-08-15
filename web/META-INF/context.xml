@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Home_Inventory_realDB">
+  <Resource auth="Container"
+            driverClassName="com.mysql.jdbc.Driver"
+            logAbandoned="true"
+            maxActive="100"
+            maxIdle="30"
+            maxWait="10000"
+            name="jdbc/heroku_7575c8531923acc"
+            password="10ce983c"
+            removeAbandoned="true"
+            removeAbandonedTimeout="60"
+            type="javax.sql.DataSource"
+            url="jdbc:mysql://us-cdbr-east-04.cleardb.com:3306/heroku_7575c8531923acc"
+            username="bbab6f5cd62161"/>
+</Context>
