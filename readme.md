@@ -1,5 +1,8 @@
 This is an admin/user application that allows a user to add inventory to their name, edit the items, edit their personal information as well.  
-The admin on the other hand has much more responsibilties and action available to them.
+The admin on the other hand has much more responsibilties and action available to them.   
+
+This app is deployed using Heroku, and Digital Ocean.
+Tech stack: Java, java jsps & servlets, Tomcat.
 
 This is the homepage of the Admin:
 
