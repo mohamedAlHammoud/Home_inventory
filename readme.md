@@ -1,4 +1,4 @@
-This admin/user application that allows a user to add inventory to their name, edit the items, edit their personal information as well.
+This is an admin/user application that allows a user to add inventory to their name, edit the items, edit their personal information as well.
 The admin on the other hand has much more responsibilties and action available to them.
 
 This is the homepage of the Admin:
@@ -60,7 +60,7 @@ The application handles all errors and 404 errors as well:
 
 The application is fully responsive for all screen sizes:
 
-To test the application, register and login using this URL
+To test the application, register and login using this URL, PS: can only sign up as a regular user for security reasons.
 
 http://165.22.183.28:8080/Home_Inventory_realDB/
 
